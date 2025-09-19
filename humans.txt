@@ -1,0 +1,11 @@
+/* TEAM */
+Developer: Nora Vázquez
+Research lead: Marta Salgado
+Consulting: Diego Zamora
+Site: https://www.technova-sec.com/
+
+/* THANKS */
+Tools: TailwindCSS, GitHub Pages
+
+/* SITE */
+Last update: 2025-09-19
